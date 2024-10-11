@@ -1,0 +1,14 @@
+#namespace is the name of the namespace to deploy resources
+namespace: wordpress4
+
+#mysql_database is the name of the mysql database
+mysql_database: wordpress
+
+#mysql_user is the name of the  mysql user
+mysql_user: wordpress
+
+#service_name is the name of the mysql service
+service_name: mysql-svc
+
+#wordpress_db_user is the name of the wordpress database user
+wordpress_db_user: wordpress
